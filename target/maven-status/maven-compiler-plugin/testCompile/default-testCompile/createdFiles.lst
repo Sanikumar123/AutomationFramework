@@ -1,0 +1,9 @@
+com\XYZBank\dataReader\ExcelReader.class
+com\XYZBank\extentlisteners\ExtentManager.class
+com\XYZBank\testscripts\ListenersClass.class
+com\XYZBank\testscripts\Misc.class
+com\XYZBank\dataReader\DataProviders.class
+com\XYZBank\testbase\TestBase.class
+com\XYZBank\testscripts\BankManagerHomePageTest.class
+com\XYZBank\extentlisteners\ExtentListeners.class
+com\XYZBank\testscripts\HomePageTest.class

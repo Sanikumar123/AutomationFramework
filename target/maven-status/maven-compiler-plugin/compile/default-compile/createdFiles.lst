@@ -1,0 +1,6 @@
+com\XYZBank\TestPages\BasePage.class
+com\XYZBank\utility\DriverFactory.class
+com\XYZBank\TestPages\BankManagerHomePage.class
+com\XYZBank\TestPages\HomePage.class
+com\XYZBank\utility\Constants.class
+com\XYZBank\utility\DriverManager.class
